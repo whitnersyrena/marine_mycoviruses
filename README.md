@@ -4,7 +4,8 @@ Marine fungi harbor, and are co-diversified with, remnants of endogenous giant v
 #### By: Syrena Whitner 
 ---
 ### To cite this work or code 
-#### Whitner, S., Amend, A. S., Culley, A. I. (2026). Marine fungi harbor, and are co-diversified with, remnants of endogenous giant viral elements. [Manuscript submitted for publication to ...].
+#### Whitner, S. K., Amend, A. S., & Culley, A. I. (2026). Marine fungi harbor, and are co-diversified with, remnants of giant endogenous viral elements. npj Viruses. https://
+doi.org/10.1038/s44298-026-00215-3
 #### Whitner, S. (2025). Marine fungi harbor, and are co-diversified with, remnants of endogenous giant viral elements. Zenodo. 10.5281/zenodo.18626390.
 ---
 ### Abstract
